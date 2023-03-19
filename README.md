@@ -1,5 +1,4 @@
 # arianPay
-FrameWorks :
 
 alpine.js
 
